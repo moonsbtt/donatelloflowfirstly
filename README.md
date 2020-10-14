@@ -1,4 +1,7 @@
 # # How to Remove "js.donatelloflowfirstly.ga" from Wordpress
+
+[![Join the chat at https://gitter.im/Waikey-Web-Hosting/waikey](https://badges.gitter.im/Waikey-Web-Hosting/waikey.svg)](https://gitter.im/Waikey-Web-Hosting/waikey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 New virus from the domain " js.donatelloflowfirstly.ga " is infecting many WordPress sites these days by injecting a line of JS code into the wordpress themes/plugins files and all posts and pages via sql command. The virus will redirect the sites to malicious domains like  blackwaterforllows.ga ,  donatelloflowfirstly.ga , and  blackwaterforllows.ga .
 **How it remove it**
 For now, there is no clues how this happened and the only way is to clean it manually! Here is my steps:
